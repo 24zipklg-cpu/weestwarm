@@ -1,0 +1,14 @@
+{
+  "name": "weestwarm-orders",
+  "version": "1.0.0",
+  "description": "Приём заказов с лендинга WEESTWARM и отправка в Telegram",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
